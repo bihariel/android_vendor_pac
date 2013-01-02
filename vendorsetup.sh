@@ -20,3 +20,5 @@ add_lunch_combo pac_cooper-userdebug
 add_lunch_combo pac_grouper-userdebug
 # HTC Rezound
 add_lunch_combo pac_vigor-userdebug
+# HTC Evo 3D gsm
+add_lunch_combo pac_shooteru-userdebug
