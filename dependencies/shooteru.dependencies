@@ -1,0 +1,32 @@
+[
+    {
+        "account":  "AmeriCanAndroid",
+        "repository":	"android_device_htc_shooteru",
+        "target_path":	"device/htc/shooteru",
+        "revision":	"cm10"
+    },
+    {
+        "account":	"AmeriCanAndroid",
+        "repository":	"android_device_htc_msm8660-common",
+        "target_path":	"device/htc/msm8660-common",
+        "revision":	"jellybean"
+    },
+    {
+        "account":	"TeamJB",
+        "repository":	"android_kernel_htc_msm8660",
+        "target_path":	"kernel/htc/msm8660",
+        "revision":	"jellybean"
+    },
+    {
+        "account":	"TeamJB",
+        "repository":	"android_vendor_htc/shooteru",
+        "target_path":	"vendor/htc/shooteru",
+        "revision":	"jellybean"
+    },
+    {
+        "account":	"DragunKorr",
+        "repository":	"android_vendor_pa",
+        "target_path":	"vendor/pa",
+        "revision":	"jellybean"
+    }
+]
